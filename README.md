@@ -15,3 +15,12 @@ Plot
 - Trouver éventuellement une autre Eurisitc que Hill Climbings
 - Revoir la facon dont on charge le fichier source
 -  Expliquer la différence entre une solution initial "Random" et "Plus Proche Voisin"
+
+## Data Set
+
+
+Série C (Clustered) : Les clients sont regroupés en "grappes" (comme des quartiers urbains). Ex: C101, C102.
+
+Série R (Random) : Les clients sont éparpillés au hasard sur la carte (comme en zone rurale). Ex: R101, R102.
+
+Série RC (Random-Clustered) : Un mélange des deux. Ex: RC101.
